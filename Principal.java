@@ -53,6 +53,9 @@ public class Principal {
 		// p2.endereco.CEP = "00000-000";
 		//
 		// System.out.printf("%s\n", p2.imprimirDadosPessoa('S'));
+		//
+		// Pessoa p3 = new Pessoa("Leonardo Kuster", 26, "000.000.000-00", "Avenida Ipiranga", 694, "Apto 250", "POA", "RS", "00000-000");
+		// System.out.printf("%s\n", p3.imprimirDadosPessoa('S'));
 	}
 
 }
