@@ -12,6 +12,13 @@ public class Pessoa {
 	}
 	
 	// Exemplo de Construtor
+	// Pessoa(String name, int age, String id){
+	//	nome = name;
+	//	idade = age;
+	//	CPF = id;
+	//	endereco = new dadosEndereco();
+	// }
+	//
 	// Pessoa(String name, int age, String id, String street, int number, String compl, String city, String UF, String code){
 	//	nome = name;
 	//	idade = age;
