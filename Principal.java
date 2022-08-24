@@ -42,6 +42,17 @@ public class Principal {
 		imprimirEndereco = entradaCaractere.nextLine().charAt(0);
 		
 		System.out.printf("%s\n", p1.imprimirDadosPessoa(imprimirEndereco));
+		
+		// Exemplo de como chamar construtor criado
+		// Pessoa p2 = new Pessoa("Leonardo Kuster", 26, "000.000.000-00");
+		// p2.endereco.logradouro = "Avenida Ipiranga";
+		// p2.endereco.numero = 694;
+		// p2.endereco.complemento = "Apto 250";
+		// p2.endereco.cidade = "POA";
+		// p2.endereco.estado = "RS";
+		// p2.endereco.CEP = "00000-000";
+		//
+		// System.out.printf("%s\n", p2.imprimirDadosPessoa('S'));
 	}
 
 }
