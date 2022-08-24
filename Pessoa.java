@@ -12,11 +12,17 @@ public class Pessoa {
 	}
 	
 	// Exemplo de Construtor
-	// Pessoa(String name, int age, String id){
+	// Pessoa(String name, int age, String id, String street, int number, String compl, String city, String UF, String code){
 	//	nome = name;
 	//	idade = age;
 	//	CPF = id;
 	//	endereco = new dadosEndereco();
+	//	endereco.logradouro = street;
+	//	endereco.numero = number;
+	//	endereco.complemento = compl;
+	//	endereco.cidade = city;
+	//	endereco.estado = UF;
+	//	endereco.CEP = code;
 	// }
 	
 	String imprimirDadosPessoa(char imprimirEndereco) {
